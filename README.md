@@ -13,12 +13,12 @@ indexes/sn467/      corpus indexes
 exports/sn467/      compact downstream dataset exports
 ```
 
-## First SN467 Smoke
+## SN467 Smoke Corpus
 
 - netuid: `467`
 - active K: `10`
 - registry: `registries/sn467/2d5d4843c1b48797d9a0ab53b57844c894a121fa54a6e18231371de657bd0403.json`
-- corpus rows: `2`
+- corpus rows: `3`
 - weights written: `false`
 
-These rows are smoke proofs for the validator-to-corpus pipeline, including one submission packaged on the miner droplet and verified on the validator droplet. This is not a production dataset release.
+These rows are smoke proofs for the validator-to-corpus pipeline, including submissions packaged by the miner path and accepted by the validator path. This is not a production dataset release.
