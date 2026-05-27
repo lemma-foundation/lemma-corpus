@@ -2,82 +2,82 @@
   "exclude_near_duplicates": false,
   "export": {
     "path": "lemma-proofs.jsonl",
-    "sha256": "7e86dcd1ffac9b035cbac0b0bd7c3891bb91cc920e7eaae5fdd7e08bcff18c1d"
+    "sha256": "c06af0fb183f65e3d01e63232de743256fb9685deaaf0de37fc7422bf3b72f40"
   },
   "format": "lemma-benchmark-export-v1",
   "license_filter": null,
   "limit": null,
   "mathlib_revs": {
-    "5450b53e5ddc75d46418fabb605edbf36bd0beb6": 255
+    "5450b53e5ddc75d46418fabb605edbf36bd0beb6": 311
   },
   "rewarded_only": false,
-  "row_count": 255,
+  "row_count": 311,
   "schema_version": 1,
   "source_files": [
     {
       "path": "epoch-000001.jsonl",
-      "rows": 1,
-      "sha256": "e2438c1c3badacd4a4ab6da86c8a88d048cf24fb88681954cf4dbf9d9779223d"
+      "rows": 6,
+      "sha256": "b968585e31745a6558c30348f56c8e6c8921dc00d132936e8422d8d3deaf3d65"
     },
     {
       "path": "epoch-000002.jsonl",
-      "rows": 1,
-      "sha256": "c792d56671178eb6e0350f37d6fce52cab17140aae34b103f2f96a9f4acbae47"
+      "rows": 6,
+      "sha256": "642dfdee742177ef8b8456a7baed79077c0b1aa1764c8399e2b7cd2749119239"
     },
     {
       "path": "epoch-000003.jsonl",
-      "rows": 1,
-      "sha256": "d7c931789393f91b9c966eca73189ed951a1882ac8d72cf3d6f8341a12762cd0"
+      "rows": 6,
+      "sha256": "7ec4efd8b417959d58e911b087bd9f2c416a7d6dcf8dd54e2e5f07522a37b9e7"
     },
     {
       "path": "epoch-000004.jsonl",
-      "rows": 2,
-      "sha256": "0a8e71c87d6d1d233f099c0d1a3c0bac3e391dbc3eefa88cecec12bb56d7f9f4"
+      "rows": 6,
+      "sha256": "6de9a919ec85def626cd733d632f551f7e6712b2e7dd28021849c32cc82a679f"
     },
     {
       "path": "epoch-000005.jsonl",
-      "rows": 2,
-      "sha256": "092e63bbbb1198d3604faafe1d124c0759313ba2092de3c0247557c2e85a4a31"
+      "rows": 6,
+      "sha256": "ebd65fd0ea6dda0416bf2072c979d48e1e81d31a6e1ea9775ccfd61503d7bb58"
     },
     {
       "path": "epoch-000006.jsonl",
-      "rows": 2,
-      "sha256": "13d5bb4fe76abe3af9b45bc16533b964ff1b9951b716e096c2515ae36c665b7e"
+      "rows": 6,
+      "sha256": "5e5281f9bd0fb40042e8d568d20c56ad6970f4e0c465f86e38daa78aef1133a5"
     },
     {
       "path": "epoch-000007.jsonl",
-      "rows": 1,
-      "sha256": "2e705f0b995aa07ab830cff80edfca4ae5e2afc517b96bbf5ca1da56db44fe39"
+      "rows": 6,
+      "sha256": "59cb89958a838b27088b4c6a33410241e892596961583bcd697aa4a048a10f18"
     },
     {
       "path": "epoch-000008.jsonl",
-      "rows": 1,
-      "sha256": "a25ac55f27a9ea7bf2b6c2ca9e5481567d06141291bb16ba45d4e261362e4dbe"
+      "rows": 6,
+      "sha256": "3ee64df010239f457f630adde559d63362fb90071e7ff154503f78869d75761b"
     },
     {
       "path": "epoch-000009.jsonl",
-      "rows": 2,
-      "sha256": "11b8246eb6cac5a6c48fc62f33a8af2b1e43e31a7cddcba0f561d2d39678c3d0"
+      "rows": 6,
+      "sha256": "4f2c40d2d0ff10f9bfd5c619ce11c852d1c10434dfa3c6e164dbf45d8345860f"
     },
     {
       "path": "epoch-000010.jsonl",
-      "rows": 2,
-      "sha256": "3d39161cc78cae2034167bba75343ffa03da00a626812a8ab6bf9e9851b41b9f"
+      "rows": 6,
+      "sha256": "af7b37c9bc0e4b045ceba50b9abc66598512ce97e11842318c8473d0fa133367"
     },
     {
       "path": "epoch-000011.jsonl",
-      "rows": 2,
-      "sha256": "5c156272a84fc232cf348054c7abb18ef8532b04a4b14ceb12b49b6627c9fa62"
+      "rows": 6,
+      "sha256": "6624a6952b99494bd4d25f4e06e6edf4f3fd974f41598b5ef804bd15dfc90b53"
     },
     {
       "path": "epoch-000012.jsonl",
-      "rows": 2,
-      "sha256": "e24dd592241a745581a54fc10870512ee2d37957a0df9a879b828c357c0e6cb9"
+      "rows": 5,
+      "sha256": "8a0bbb148ab2c2d3fa7f2fcb4d0544157aafb67f8ab67d46639af875f8faeb53"
     },
     {
       "path": "epoch-000013.jsonl",
-      "rows": 2,
-      "sha256": "3288fd95bcc353f826ce6bc6dce74a47ce626c9b4be414891982b6c328ee9b61"
+      "rows": 6,
+      "sha256": "0d42c24844c067678fc21d1ad0afc7c50f76be1ab1faa07b1a72fed5ad237b3c"
     },
     {
       "path": "epoch-000014.jsonl",
@@ -476,9 +476,9 @@
     }
   ],
   "source_streams": {
-    "mathlib_snapshot": 63,
-    "procedural": 192
+    "mathlib_snapshot": 42,
+    "procedural": 269
   },
-  "updated_at": "2026-05-26T07:12:19Z",
+  "updated_at": "2026-05-27T02:24:12Z",
   "useful_only": false
 }
