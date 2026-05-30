@@ -2,14 +2,14 @@
   "exclude_near_duplicates": false,
   "export": {
     "path": "lemma-proofs.jsonl",
-    "sha256": "ffbea0e6828571a5deb62ac5128343571352cd03cef3841d59def790b08d93d3"
+    "sha256": "5d692cd17895c0c3cd4f170c8d123777637a001bde26846726dd666892796498"
   },
   "format": "lemma-benchmark-export-v1",
   "license_filter": null,
   "limit": null,
   "mathlib_revs": {
-    "5450b53e5ddc": 81,
-    "5450b53e5ddc75d46418fabb605edbf36bd0beb6": 263
+    "5450b53e5ddc": 82,
+    "5450b53e5ddc75d46418fabb605edbf36bd0beb6": 262
   },
   "rewarded_only": false,
   "row_count": 344,
@@ -218,7 +218,7 @@
     {
       "path": "epoch-000041.jsonl",
       "rows": 1,
-      "sha256": "9c5f616ff05465eba94deb07e06efcc8ff6b659259c634a973650a1b3606b0d8"
+      "sha256": "3e92e033fcba9229d64c4d3c49dd22ad93dcb5bc22fb3e53892f1055774171ec"
     },
     {
       "path": "epoch-000042.jsonl",
@@ -479,6 +479,6 @@
   "source_streams": {
     "procedural": 344
   },
-  "updated_at": "2026-05-30T15:45:29Z",
+  "updated_at": "2026-05-30T16:48:04Z",
   "useful_only": false
 }
